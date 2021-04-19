@@ -1,2 +1,2 @@
-'Just adding some text here for my lab learning Git!'
+'I have now changed the original text added to this file.'
 
